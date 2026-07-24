@@ -1,0 +1,19 @@
+[
+  { "id": "general-pop", "name": "General Population", "detail": "Two-tier cells around a common floor", "zone": "inmate" },
+  { "id": "showers", "name": "Shower Block", "detail": "At the end of the GP block", "zone": "inmate" },
+  { "id": "chow", "name": "Chow Hall", "detail": "Main inmate dining room", "zone": "inmate" },
+  { "id": "yard", "name": "The Yard", "detail": "Courts, field and outdoor gym", "zone": "inmate" },
+  { "id": "library", "name": "Library", "detail": "Southern library; device blind spot below", "zone": "inmate" },
+  { "id": "kitchen", "name": "Kitchen", "detail": "Inmate jobs under staff supervision", "zone": "work" },
+  { "id": "commissary", "name": "Commissary Window", "detail": "Staff-run counter; no inmate entrance", "zone": "work" },
+  { "id": "laundry", "name": "Laundry Room", "detail": "Rear service room and maintenance cage", "zone": "work" },
+  { "id": "intake-processing", "name": "Intake Processing", "detail": "Booking, searches and initial processing", "zone": "secure", "suite": "administrative", "suiteLabel": "Intake & Administrative Suite" },
+  { "id": "records", "name": "Records Room", "detail": "Prisoner files and temporal case records", "zone": "secure", "suite": "administrative", "suiteLabel": "Intake & Administrative Suite" },
+  { "id": "confiscated-property", "name": "Confiscated Property", "detail": "Tagged possessions taken during intake", "zone": "secure", "suite": "administrative", "suiteLabel": "Intake & Administrative Suite" },
+  { "id": "administration", "name": "Administration / Warden's Office", "detail": "Administrative staff and the warden", "zone": "secure", "suite": "administrative", "suiteLabel": "Intake & Administrative Suite" },
+  { "id": "infirmary", "name": "Infirmary", "detail": "Northern staff-run medical department", "zone": "work" },
+  { "id": "shu", "name": "Secure Housing Unit", "detail": "Northern solitary; warden-controlled door", "zone": "secure" },
+  { "id": "control", "name": "Central Control", "detail": "Cameras, gates and barrier controls", "zone": "secure" },
+  { "id": "armoury", "name": "Armoury", "detail": "Staff-only weapons and scrolls", "zone": "secure" },
+  { "id": "perimeter", "name": "Perimeter & Six Towers", "detail": "Walls, patrol lane and isolated arcanists", "zone": "secure" }
+]

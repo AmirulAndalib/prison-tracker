@@ -1,0 +1,33 @@
+{
+  "storageKey": "time-prison-population-board-v1",
+  "defaultScheduleId": "morning-count",
+  "roomAliases": {
+    "intake": "intake-processing"
+  },
+  "personAliases": {
+    "hair-collector-1": "hairless-hutch",
+    "fragmented-inmate-1": "elias-wren",
+    "devout-inmate-1": "anwen-pike",
+    "believer-inmate-2": "sam-teale",
+    "contraband-broker-1": "benny-rook",
+    "access-forger-1": "lena-quill",
+    "reset-siphoner-1": "niko-saye",
+    "artist-inmate-1": "poppy-vale",
+    "laundry-worker-inmate-1": "milo-dent",
+    "kitchen-worker-inmate-1": "lottie-fen",
+    "antagonist-inmate-1": "frankie-knell",
+    "antagonist-inmate-2": "odo-marr",
+    "antagonist-inmate-3": "kesh-varo",
+    "infirmary-staff-1": "tomas-reed",
+    "warden-1": "helen-voss",
+    "gp-guard-1": "martin-bell"
+  },
+  "eyebrow": "REFEREE POPULATION BOARD",
+  "title": "THE FIXED HOUR",
+  "subtitle": "Time Prison — live location tracker",
+  "typeLabels": {
+    "inmate": "Inmate",
+    "guard": "Guard",
+    "staff": "Staff"
+  }
+}

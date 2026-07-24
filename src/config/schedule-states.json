@@ -1,0 +1,12 @@
+[
+  { "id": "morning-count", "label": "Morning Count", "short": "Count" },
+  { "id": "breakfast", "label": "Breakfast", "short": "Breakfast" },
+  { "id": "work-one", "label": "Work Period", "short": "Work I" },
+  { "id": "lunch", "label": "Lunch", "short": "Lunch" },
+  { "id": "free-rotation", "label": "Yard / Open Free Rotation", "short": "Free Rotation" },
+  { "id": "work-two", "label": "Second Work Period", "short": "Work II" },
+  { "id": "dinner", "label": "Dinner", "short": "Dinner" },
+  { "id": "gp-free-time", "label": "Restricted GP Free Time", "short": "GP Free Time" },
+  { "id": "shower-block", "label": "Shower Block", "short": "Showers" },
+  { "id": "lockdown", "label": "Lockdown", "short": "Lockdown" }
+]
