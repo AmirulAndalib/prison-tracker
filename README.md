@@ -2,6 +2,8 @@
 
 A local, laptop-oriented referee board for tracking where inmates and staff are during each prison schedule period.
 
+Created with help from Claude, used during a specific period of my homebrew campaign. No longer maintained.
+
 ## Run locally
 
 From this folder:
